@@ -1,5 +1,5 @@
 {
-    "name": "liftronics/laravel-openid-connect",
+    "name": "liftronics/laravel-openid-connect-server",
     "description": "Drop-in replacement for Laravel Passport to add support for OpenID Connect",
     "type": "library",
     "authors": [
